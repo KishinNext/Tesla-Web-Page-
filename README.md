@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with single introductory section
+# Tesla Page - Tesla landing page with single introductory section
 
 Welcome!! :wave:
 
