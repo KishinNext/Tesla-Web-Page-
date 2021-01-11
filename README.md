@@ -12,7 +12,7 @@ The challenge is to build out this landing page from the designs provided in the
 
 ## Desing
 
-![1](./design/web_page.png)
-![2](./design/app.png)
+![1](./desing/web_page.png)
+![2](./desing/app.png)
 
 Thanks for view :green_heart:
