@@ -5,7 +5,6 @@ Welcome!! :wave:
 ## Brief
 The challenge is to build out this landing page from the designs provided in the starter code.Keep the code as clean as possible. This page use Bulma to responsive desing
 
-The [challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 ## Demo Result
 
@@ -13,7 +12,7 @@ The [challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-wit
 
 ## Desing
 
-![1](./design/web_page.jpg)
-![2](./design/app.jpg)
+![1](./design/web_page.png)
+![2](./design/app.png)
 
 Thanks for view :green_heart:
